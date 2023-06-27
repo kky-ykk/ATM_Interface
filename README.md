@@ -28,5 +28,5 @@ This was developed during the internship of ineuron.</h2>
 </h3>
 
 <div align="center">
-  <a href="https://youtu.be/TsgRlZ4aWVE">DEMO VIDEO</a>
+  <a href="https://youtu.be/TsgRlZ4aWVE" target="_blank">DEMO VIDEO</a>
 </div>
