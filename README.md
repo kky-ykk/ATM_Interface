@@ -14,7 +14,7 @@ This was developed during the internship of ineuron.</h2>
     <li>First user have to enter user name and password to login</li>
     <li>
       have to select among this option
-      <ol>
+      <ol type='1'>
         <li>History</li>
         <li>withdraw</li>
         <li>Deposit</li>
@@ -22,5 +22,11 @@ This was developed during the internship of ineuron.</h2>
         <li>Quite</li>
       </ol>
     </li>
+    <li>chose amgong the above to do different operation </li>
+    <li>When it is done choose 5 to quite</li>
   </ul>
 </h3>
+
+<div align="center">
+  if
+</div>
